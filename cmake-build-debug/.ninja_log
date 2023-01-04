@@ -1,6 +1,0 @@
-# ninja log v5
-5	682	6642346626721386	CMakeFiles/HeapPriorityQueue.dir/main.cpp.obj	1e12707409d0ba3b
-683	861	6642346628491514	HeapPriorityQueue.exe	15ca33feda1e64db
-5	1095	6641502380628468	CMakeFiles/HeapPriorityQueue.dir/Cliente.cpp.obj	3f528efd75fead
-2	437	6643334143999244	build.ninja	b7e4200518dc40fe
-29	962	6643334774952931	CMakeFiles/HeapPriorityQueue.dir/Cliente.cpp.obj	3f528efd75fead
